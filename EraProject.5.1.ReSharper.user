@@ -1,0 +1,274 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6BF061DF-E560-4982-94C3-DDBA0021BC4E/f:EraApp.aspx" caret="945" fromTop="23" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:IScene.cs" caret="0" fromTop="0" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:PowerView.cs" caret="249" fromTop="14" />
+      <File id="ED4E753F-108E-4159-AFE1-6EA4D45DBE3A/d:Views/f:plate.xaml" caret="2544" fromTop="4" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:Destiny.cs" caret="320" fromTop="12" />
+      <File id="6BF061DF-E560-4982-94C3-DDBA0021BC4E/d:wcf/f:Service1.svc.cs" caret="999" fromTop="28" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:SceneHealth.cs" caret="0" fromTop="0" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:Stems.cs" caret="0" fromTop="0" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:SceneReverse.cs" caret="0" fromTop="0" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:Era.cs" caret="0" fromTop="0" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:CalcAmountHelper.cs" caret="405" fromTop="13" />
+      <File id="ED4E753F-108E-4159-AFE1-6EA4D45DBE3A/d:Views/f:Home.xaml" caret="1580" fromTop="4" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:Branch.cs" caret="111" fromTop="5" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:Season.cs" caret="211" fromTop="9" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:Pillar.cs" caret="737" fromTop="19" />
+      <File id="ED4E753F-108E-4159-AFE1-6EA4D45DBE3A/d:Views/f:plate.xaml.cs" caret="8476" fromTop="34" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:BaseClass.cs" caret="447" fromTop="21" />
+      <File id="ED4E753F-108E-4159-AFE1-6EA4D45DBE3A/d:Views/f:Home.xaml.cs" caret="2256" fromTop="24" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:ChainCalendar.cs" caret="20894" fromTop="16" />
+      <File id="ED4E753F-108E-4159-AFE1-6EA4D45DBE3A/f:App.xaml.cs" caret="543" fromTop="4" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:EnvironmentHelper.cs" caret="4978" fromTop="16" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:DestinyRelationView.cs" caret="526" fromTop="14" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:TextFile1.txt" caret="990" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:ChainCalendar.cs" caret="21461" fromTop="30" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:ChainCalendar.cs" caret="28741" fromTop="45" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:ChainCalendar.cs" caret="21404" fromTop="21" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:ChainCalendar.cs" caret="21404" fromTop="16" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:ChainCalendar.cs" caret="21404" fromTop="27" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:ChainCalendar.cs" caret="21404" fromTop="17" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:ChainCalendar.cs" caret="21287" fromTop="27" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:ChainCalendar.cs" caret="21461" fromTop="43" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:ChainCalendar.cs" caret="20168" fromTop="28" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:ChainCalendar.cs" caret="19998" fromTop="16" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:ChainCalendar.cs" caret="11819" fromTop="18" />
+      <File id="ED4E753F-108E-4159-AFE1-6EA4D45DBE3A/d:Views/f:Home.xaml.cs" caret="2299" fromTop="24" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:ChainCalendar.cs" caret="19673" fromTop="28" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:ChainCalendar.cs" caret="19413" fromTop="19" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:ChainCalendar.cs" caret="19599" fromTop="24" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:ChainCalendar.cs" caret="19836" fromTop="20" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:ChainCalendar.cs" caret="21461" fromTop="30" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:Pillar.cs" caret="737" fromTop="25" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:Pillar.cs" caret="980" fromTop="25" />
+      <File id="ED4E753F-108E-4159-AFE1-6EA4D45DBE3A/d:Views/f:plate.xaml.cs" caret="7816" fromTop="30" />
+      <File id="ED4E753F-108E-4159-AFE1-6EA4D45DBE3A/d:Views/f:plate.xaml.cs" caret="8458" fromTop="34" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:DestinyRelationView.cs" caret="1640" fromTop="32" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:EnvironmentHelper.cs" caret="4636" fromTop="30" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:EnvironmentHelper.cs" caret="4961" fromTop="39" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:DestinyRelationView.cs" caret="889" fromTop="7" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:DestinyRelationView.cs" caret="2579" fromTop="36" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:EnvironmentHelper.cs" caret="1775" fromTop="22" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:DestinyRelationView.cs" caret="2340" fromTop="18" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:TextFile1.txt" caret="29" fromTop="2" />
+      <File id="2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25/f:TextFile1.txt" caret="990" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="5" />
+      <Item value="void" priority="1" />
+      <Item value="ellipse" priority="5" />
+      <Item value="new" priority="13" />
+      <Item value="Ellipse" priority="0" />
+      <Item value="Color`0" priority="1" />
+      <Item value="Brush`0" priority="1" />
+      <Item value="canvas1" priority="2" />
+      <Item value="ctv" priority="3" />
+      <Item value="Canvas`0" priority="0" />
+      <Item value="DestinyRelationView`0" priority="0" />
+      <Item value="ellipse1" priority="0" />
+      <Item value="textBlock1" priority="1" />
+      <Item value="des" priority="0" />
+      <Item value="switch" priority="0" />
+      <Item value="emEra" priority="2" />
+      <Item value="case" priority="1" />
+      <Item value="return" priority="12" />
+      <Item value="SolidColorBrush`0" priority="0" />
+      <Item value="break" priority="1" />
+      <Item value="txtSR1" priority="0" />
+      <Item value="txtSR2" priority="0" />
+      <Item value="if" priority="9" />
+      <Item value="string" priority="9" />
+      <Item value="true" priority="1" />
+      <Item value="DateTime`0" priority="6" />
+      <Item value="ss" priority="0" />
+      <Item value="ChinaCalendar" priority="0" />
+      <Item value="cc" priority="0" />
+      <Item value="Initialize`0" priority="0" />
+      <Item value="int" priority="26" />
+      <Item value="now" priority="2" />
+      <Item value="Yindex" priority="0" />
+      <Item value="gzD" priority="0" />
+      <Item value="Erayear" priority="1" />
+      <Item value="Dyear" priority="1" />
+      <Item value="Term`0" priority="0" />
+      <Item value="Year" priority="4" />
+      <Item value="Mindex" priority="0" />
+      <Item value="DNindex" priority="1" />
+      <Item value="Dindex" priority="1" />
+      <Item value="DDay" priority="3" />
+      <Item value="else" priority="1" />
+      <Item value="IndexOutOfRangeException`0" priority="0" />
+      <Item value="double" priority="0" />
+      <Item value="DateTime" priority="1" />
+      <Item value="year" priority="0" />
+      <Item value="dayOfYear" priority="0" />
+      <Item value="DHour" priority="1" />
+      <Item value="dt" priority="2" />
+      <Item value="MHour" priority="1" />
+      <Item value="while" priority="0" />
+      <Item value="continue" priority="0" />
+      <Item value="tryTime" priority="0" />
+      <Item value="inputEra" priority="0" />
+      <Item value="eras" priority="1" />
+      <Item value="Length" priority="0" />
+      <Item value="Gan" priority="0" />
+      <Item value="Zhi" priority="0" />
+      <Item value="DMouth" priority="0" />
+      <Item value="WeakReference`0" priority="0" />
+      <Item value="List" priority="1" />
+      <Item value="Branch`0" priority="0" />
+      <Item value="List&lt;Branch&gt;" priority="1" />
+      <Item value="Day" priority="3" />
+      <Item value="null" priority="1" />
+      <Item value="Branch" priority="2" />
+      <Item value="Stems" priority="0" />
+      <Item value="EmptyBranch" priority="0" />
+      <Item value="first" priority="0" />
+      <Item value="List&lt;string&gt;" priority="1" />
+      <Item value="private" priority="2" />
+      <Item value="const" priority="0" />
+      <Item value="static" priority="4" />
+      <Item value="readonly" priority="1" />
+      <Item value="emStems`0" priority="0" />
+      <Item value="emStems" priority="1" />
+      <Item value="emBranch`0" priority="0" />
+      <Item value="emBranch" priority="1" />
+      <Item value="WeakStrongs" priority="0" />
+      <Item value="start" priority="1" />
+      <Item value="Math`0" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="WeekStrong" priority="0" />
+      <Item value="Month" priority="1" />
+      <Item value="Hour" priority="1" />
+      <Item value="Pillar`0" priority="0" />
+      <Item value="Nayin" priority="0" />
+      <Item value="pillar" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Shapes.Ellipse">
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="0" />
+      <Item value="DataContext" priority="0" />
+      <Item value="Fill" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Colors">
+      <Item value="Brown" priority="1" />
+      <Item value="Green" priority="0" />
+      <Item value="White" priority="1" />
+      <Item value="Red" priority="1" />
+      <Item value="Black" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Canvas">
+      <Item value="Children" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.UIElementCollection">
+      <Item value="Add`0" priority="0" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.Canvas">
+      <Item value="SetLeft`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Color">
+      <Item value="FromArgb`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="Text" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Era.Core.DestinyRelationView">
+      <Item value="YearStems" priority="1" />
+      <Item value="YearBranchs" priority="0" />
+      <Item value="EmptyBranch" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Era.Core.EraRelation">
+      <Item value="ToString`0" priority="2" />
+      <Item value="Foreign" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Era.Core.Pillar">
+      <Item value="Stems" priority="2" />
+      <Item value="Index" priority="1" />
+      <Item value="Branch" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Era.Core.Destiny">
+      <Item value="Day" priority="0" />
+      <Item value="Hour" priority="0" />
+      <Item value="Year" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Era.Core.Stems">
+      <Item value="Element" priority="3" />
+      <Item value="EraType" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Era.Core.emEra">
+      <Item value="火" priority="0" />
+      <Item value="土" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Era.Core.Branch">
+      <Item value="HideStems" priority="0" />
+      <Item value="Element" priority="1" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="0" />
+      <Item value="Add`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="DayOfYear" priority="0" />
+      <Item value="Year" priority="3" />
+      <Item value="Month" priority="0" />
+      <Item value="Day" priority="0" />
+      <Item value="AddDays`0" priority="0" />
+      <Item value="AddHours`0" priority="0" />
+      <Item value="ToLongTimeString`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Era.Core.ChinaCalendar">
+      <Item value="Test`0" priority="0" />
+      <Item value="GetDateTime`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+      <Item value="MinValue" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="IndexOf`0" priority="0" />
+      <Item value="Substring`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EraApp.Home">
+      <Item value="textBlock3" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Sign`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

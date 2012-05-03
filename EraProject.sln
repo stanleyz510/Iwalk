@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Era.Core.SL", "Era.Core.SL\Era.Core.SL.csproj", "{2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Era.Web", "Era.Web\Era.Web.csproj", "{6BF061DF-E560-4982-94C3-DDBA0021BC4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EraApp", "EraApp\EraApp.csproj", "{ED4E753F-108E-4159-AFE1-6EA4D45DBE3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF1A7E9-D20A-4F0D-B70F-CACF350D8A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF061DF-E560-4982-94C3-DDBA0021BC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF061DF-E560-4982-94C3-DDBA0021BC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF061DF-E560-4982-94C3-DDBA0021BC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF061DF-E560-4982-94C3-DDBA0021BC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED4E753F-108E-4159-AFE1-6EA4D45DBE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4E753F-108E-4159-AFE1-6EA4D45DBE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4E753F-108E-4159-AFE1-6EA4D45DBE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4E753F-108E-4159-AFE1-6EA4D45DBE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
